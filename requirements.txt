@@ -1,7 +1,6 @@
-pip install streamlit groqpython-dotenv
+#pip install streamlit groq python-dotenv
 
 
 streamlit
-os
 groq
-dotenv
+python-dotenv
